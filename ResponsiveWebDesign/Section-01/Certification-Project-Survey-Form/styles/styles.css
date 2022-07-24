@@ -2,7 +2,7 @@ body {
   font-size: large;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  background-image: url('../images/bg.png');
+  background-image: url('/ResponsiveWebDesign/images/bg.png');
   background-size: cover;
 }
 h1,
