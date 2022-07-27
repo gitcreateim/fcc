@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    margin: 50px auto;
+    width: 290px;
+    border: 3px solid black;
+}
+
+.divider{
+    border: 1px solid black;
+    margin: 3px;
+}
+
+.lg{
+    border: 5px solid black;
+    margin: 5px;
+}
+
+.md{
+    border: 3px solid black;
+    margin: 5px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 2px;
+    margin: -5px;
+    font-weight:bolder;
+    letter-spacing: 0.15px
+}
+p {
+    margin: -2px 12px;
+    padding: -1px;
+    letter-spacing: 0.3px
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.right{
+    float: right;
+    font-weight: bolder;
+}
+.left{
+    float: left;
+}
+
+#calories{
+    text-align: left;
+    margin: -2px 12px;
+    padding: -1px;
+}
+.note{
+    font-size: 0.9rem;
+    margin: 5px 0;
+}
+.total-fat{
+    margin-top: 20px;
+}
+
+.indent{
+    margin-left: 25px;
+}
